@@ -2,7 +2,7 @@
 
 Designed a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
-Specification
+**Specification**
 
 Your website must meet the following requirements:
 
